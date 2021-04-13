@@ -24,7 +24,7 @@ This project is a web application that DESCRIPTION
 
 ---
 ### Installation Instructions
-1. Clone this repo: `git clone https://github.com/Usarneme/REPO URL`
+1. Clone this repo: `git clone https://github.com/thomasfriedrichs/REPO URL`
 2. Enter new directory `cd REPO DIR`
 3. Install dependencies with `npm install`
 4. To run it locally, use the npm dev command `npm run start:dev`
@@ -45,14 +45,3 @@ Describe: TESTS
 ```
 ---
 ### License is GPLv3 and I make no claim to copyright. 
-<br />
-
-> You can't steal what is freely given. Enjoy!
-
-<br />
-<br />
-<br />
-<br />
-<p align="center">
-  <small>Made with ❤️ in Portland, Oregon. </small>
-</p>
